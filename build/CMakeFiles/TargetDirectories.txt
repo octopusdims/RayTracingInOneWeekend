@@ -1,0 +1,3 @@
+/Users/zhanghanyu/Projects/RayTracingInOneWeekend/build/CMakeFiles/weekend.dir
+/Users/zhanghanyu/Projects/RayTracingInOneWeekend/build/CMakeFiles/edit_cache.dir
+/Users/zhanghanyu/Projects/RayTracingInOneWeekend/build/CMakeFiles/rebuild_cache.dir
