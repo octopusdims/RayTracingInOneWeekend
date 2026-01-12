@@ -10,7 +10,7 @@ I am currently working through the series in three stages. Each stage aims to im
 
 *Status: 🛠 In Progress*
 
-* [ ] Implement basic `vec3` and `ray` classes
+* [x] Implement basic `vec3` and `ray` classes
 * [ ] Create a simple sphere renderer
 * [ ] Implement surface normals and multiple objects
 * [ ] **Antialiasing** (Multi-sampling)
@@ -69,4 +69,4 @@ I've organized the project to allow shared utilities across all three books:
 ---
 
 ## 📓 Learning Notes
-
+**Comming soon.**
