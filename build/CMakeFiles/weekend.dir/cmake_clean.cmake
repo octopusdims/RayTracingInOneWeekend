@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/weekend.dir/src/weekend/main.cc.o"
   "CMakeFiles/weekend.dir/src/weekend/main.cc.o.d"
-  "output/weekend"
-  "output/weekend.pdb"
+  "weekend"
+  "weekend.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

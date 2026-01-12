@@ -8,4 +8,4 @@ include_directories(src/common)
 
 add_executable(weekend src/weekend/main.cc)
 
-set_target_properties(weekend PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}/output")
+set_target_properties(weekend PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}")
