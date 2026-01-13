@@ -796,6 +796,7 @@ CMakeFiles/weekend.dir/src/weekend/main.cc.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/unistd.h \
   /Users/zhanghanyu/Projects/RayTracingInOneWeekend/src/common/color.h \
   /Users/zhanghanyu/Projects/RayTracingInOneWeekend/src/common/vec3.h \
+  /Users/zhanghanyu/Projects/RayTracingInOneWeekend/src/common/interval.h \
   /Users/zhanghanyu/Projects/RayTracingInOneWeekend/src/common/ray.h \
   /Users/zhanghanyu/Projects/RayTracingInOneWeekend/src/common/hittable.h \
   /Users/zhanghanyu/Projects/RayTracingInOneWeekend/src/common/hittable_list.h \
