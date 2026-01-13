@@ -1,7 +1,6 @@
 CMakeFiles/weekend.dir/src/weekend/main.cc.o: \
   /Users/zhanghanyu/Projects/RayTracingInOneWeekend/src/weekend/main.cc \
-  /Users/zhanghanyu/Projects/RayTracingInOneWeekend/src/common/color.h \
-  /Users/zhanghanyu/Projects/RayTracingInOneWeekend/src/common/vec3.h \
+  /Users/zhanghanyu/Projects/RayTracingInOneWeekend/src/common/rtweekend.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cmath \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__config_site \
@@ -795,4 +794,9 @@ CMakeFiles/weekend.dir/src/weekend/main.cc.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/stack.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/print \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/unistd.h \
-  /Users/zhanghanyu/Projects/RayTracingInOneWeekend/src/common/ray.h
+  /Users/zhanghanyu/Projects/RayTracingInOneWeekend/src/common/color.h \
+  /Users/zhanghanyu/Projects/RayTracingInOneWeekend/src/common/vec3.h \
+  /Users/zhanghanyu/Projects/RayTracingInOneWeekend/src/common/ray.h \
+  /Users/zhanghanyu/Projects/RayTracingInOneWeekend/src/common/hittable.h \
+  /Users/zhanghanyu/Projects/RayTracingInOneWeekend/src/common/hittable_list.h \
+  /Users/zhanghanyu/Projects/RayTracingInOneWeekend/src/common/sphere.h
