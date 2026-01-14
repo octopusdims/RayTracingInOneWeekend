@@ -11,9 +11,9 @@ I am currently working through the series in three stages. Each stage aims to im
 *Status: 🛠 In Progress*
 
 * [x] Implement basic `vec3` and `ray` classes
-* [ ] Create a simple sphere renderer
-* [ ] Implement surface normals and multiple objects
-* [ ] **Antialiasing** (Multi-sampling)
+* [x] Create a simple sphere renderer
+* [x] Implement surface normals and multiple objects
+* [x] **Antialiasing** (Multi-sampling)
 * [ ] **Materials**:
 * [ ] Diffuse (Lambertian)
 * [ ] Metal (Reflection)
