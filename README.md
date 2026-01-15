@@ -14,9 +14,9 @@ I am currently working through the series in three stages. Each stage aims to im
 * [x] Create a simple sphere renderer
 * [x] Implement surface normals and multiple objects
 * [x] **Antialiasing** (Multi-sampling)
-* [ ] **Materials**:
-* [ ] Diffuse (Lambertian)
-* [ ] Metal (Reflection)
+* [x] **Materials**:
+* [x] Diffuse (Lambertian)
+* [x] Metal (Reflection)
 * [ ] Dielectrics (Refraction/Glass)
 
 
@@ -55,6 +55,7 @@ I've organized the project to allow shared utilities across all three books:
 │   ├── next_week/     # Book 2: Ray Tracing: The Next Week (BVH, Textures, Volumes)
 │   └── rest_of_life/  # Book 3: Ray Tracing: The Rest of Your Life (Importance Sampling)
 ├── output/            # Rendered images (.ppm or .png)
+├── .gitignore         # List of files ignored by Git
 ├── CMakeLists.txt     # Build configuration
 └── README.md
 
