@@ -17,7 +17,7 @@ I am currently working through the series in three stages. Each stage aims to im
 * [x] **Materials**:
 * [x] Diffuse (Lambertian)
 * [x] Metal (Reflection)
-* [ ] Dielectrics (Refraction/Glass)
+* [x] Dielectrics (Refraction/Glass)
 
 
 * [ ] Camera with **Defocus Blur** (Depth of Field)
