@@ -8,7 +8,7 @@ I am currently working through the series in three stages. Each stage aims to im
 
 ### 🏁 Phase 1: In One Weekend
 
-*Status: 🛠 In Progress*
+*Status: ✅ Finished*
 
 * [x] Implement basic `vec3` and `ray` classes
 * [x] Create a simple sphere renderer
@@ -20,8 +20,8 @@ I am currently working through the series in three stages. Each stage aims to im
 * [x] Dielectrics (Refraction/Glass)
 
 
-* [ ] Camera with **Defocus Blur** (Depth of Field)
-* [ ] Render the Final Scene
+* [x] Camera with **Defocus Blur** (Depth of Field)
+* [x] Render the Final Scene
 
 ### 🌲 Phase 2: The Next Week
 
