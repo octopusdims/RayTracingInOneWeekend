@@ -7,6 +7,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 include_directories(src/common)
 
 add_executable(weekend src/weekend/main.cc)
-#add_executable(next_week src/next_week/main.cc)
+add_executable(next_week src/next_week/main.cc)
 #add_executable(rest_of_life src/rest_of_life/main.cc)
 set_target_properties(weekend PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}")
