@@ -25,7 +25,7 @@ I am currently working through the series in three stages. Each stage aims to im
 
 ### 🌲 Phase 2: The Next Week
 
-*Status: ⏳ Planned*
+*Status: 🏃 In Progress*
 
 * [ ] Bounding Volume Hierarchies (BVH)
 * [ ] Texture Mapping (Solid & Image textures)
